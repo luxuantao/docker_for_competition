@@ -1,0 +1,2 @@
+# docker_for_competition
+可供竞赛中提交docker镜像使用的初始模板
