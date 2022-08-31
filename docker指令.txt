@@ -1,0 +1,2 @@
+sudo docker build -t docker-test:0.1 .
+sudo docker run -it --rm --name torch --gpus all docker-test:0.1
